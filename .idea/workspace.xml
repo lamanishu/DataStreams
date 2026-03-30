@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64806eee-add4-49d9-a5fb-bb4ef938d7aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="e669fc7d-68aa-44e3-b285-487f0a774e62" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStreams.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -14,17 +14,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/nishulama/IdeaProjects/Java/DataStreams" value="3BfvRzyJ2wqSKLlcljW0C2mXzv3" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lamanishu"
+  }
 }]]></component>
-  <component name="ProjectId" id="3BfuqVXAskspVrZtQ6ymBDQfnr7" />
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lamanishu/DataStreams.git",
+    "accountId": "c581ad9d-9ef3-4d52-849f-cdcbc70ee932"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3BfvRzyJ2wqSKLlcljW0C2mXzv3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/nishulama/IdeaProjects/Java/DataStreams/src/Main.java",
     "settings.editor.selected.configurable": "configurable.group.tools"
@@ -39,7 +61,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64806eee-add4-49d9-a5fb-bb4ef938d7aa" name="Changes" comment="" />
+      <changelist id="e669fc7d-68aa-44e3-b285-487f0a774e62" name="Changes" comment="" />
       <created>1768494322107</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
