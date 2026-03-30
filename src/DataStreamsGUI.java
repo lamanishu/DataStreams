@@ -57,7 +57,7 @@ public class DataStreamsGUI extends JFrame {
             try (Stream<String> lines = Files.lines(Paths.get(filePath))) {
                 String content = lines.collect(Collectors.joining("\n"));
                 originalTextArea.setText(content);
-                filteredTextArea.setText(""); // clear previous search
+                filteredTextArea.setText("");
             } catch (IOException ex) {
                 JOptionPane.showMessageDialog(this, "Error loading file: " + ex.getMessage());
             }
